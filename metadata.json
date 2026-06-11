@@ -1,0 +1,6 @@
+{
+  "name": "GlobalPoint Energy",
+  "description": "GlobalPoint Energy delivers innovative, sustainable energy solutions including Solar, Wind, Energy Storage, and EV Charging systems for businesses and communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
